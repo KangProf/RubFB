@@ -23,6 +23,12 @@ $ cd RubFB
 $ ruby cloning.rb
 
 
+# donasi
+
+=> Via dana (081326977165)
+
+=> Via pulsa (081326977165)
+
 # SOSIAL MEDIA SAYA
 
 * [<img alt="ProfAcc Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/KangProf/)<br>
