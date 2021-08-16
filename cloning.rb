@@ -1,6 +1,10 @@
 # Author By Profesor Acc
 # Tools FB Ruby
 
+# Donasi
+# Via dana (081326977165)
+# Via Pulsa (081326977165)
+
 $LOAD_PATH.unshift File.expand_path(".", "lib")
 
 require 'MateMatika'
@@ -47,7 +51,10 @@ def loading!
   end
 end
 # Silahkan ini di ganti seperti author,team,github,channel,tools
+#
 # Yang lainnya jangan di oprek-oprek nanti eror
+# Seperti url,api,link jangan di ganti, karna bisa eror
+
 $logo = "
  #{$c}═══════════════════════════════════════════════════════════════
                 #{$w}Author   : PROFESOR ACC
