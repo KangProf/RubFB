@@ -1,6 +1,6 @@
 # RubFB
 
-RubFb adalah tools Yang Di buat Dengan Bahasa Pemrograman
+RubFb adalah tools Crack Facebook terbaru Yang Di buat Dengan Bahasa Pemrograman
 Yaitu Dengan Bahasa Ruby.
     
 Ruby adalah bahasa pemrograman dinamis
