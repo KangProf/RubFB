@@ -12,7 +12,7 @@ Ruby ditulis dengan bahasa pemrograman C
 dengan kemampuan dasar seperti Perl 
 dan Python.
 
-# Run
+# install
 
 $ pkg install ruby
 
