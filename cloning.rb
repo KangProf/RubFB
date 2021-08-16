@@ -46,7 +46,8 @@ def loading!
     sleep(1)
   end
 end
-
+# Silahkan ini di ganti seperti author,team,github,channel,tools
+# Yang lainnya jangan di oprek-oprek nanti eror
 $logo = "
  #{$c}═══════════════════════════════════════════════════════════════
                 #{$w}Author   : PROFESOR ACC
